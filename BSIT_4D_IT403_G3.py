@@ -7,7 +7,7 @@ qnum = [1, 2, 3, 4 ,5 ,6 ,7, 8, 9, 10]
 
 os.system('cls||clear')
 print("--------------------------------------")
-print("  Welcome to our Python Random Quiz!")
+print("Welcome to our Python Random Quiz!")
 print("--------------------------------------", "\n")
 print("We are the Group 3 and our topic is Loops.\nMembers: ") 
 print("Elgene Victoria\nEmmalyn Catiis\nJefferson San Jose\nKyla Valenzuela\n") 
